@@ -1,13 +1,10 @@
 # aaltoverb-issues
 
-##Issues for the Aaltoverb VST/AU plugin.
+*Issues for the Aaltoverb VST/AU plugin.*
 
-##No code here, just issues! To see the current list, click "Issues" above.
+*No code here, just issues! To see the current list, click "Issues" above.*
 
-
-
-
-
+```
 revision history:
 
 version 2.0.0b5(rc1):
@@ -44,4 +41,4 @@ Added named patch storage.
 Added main menu patch browser.
 Added example patches.
 Improved type design.
-
+```

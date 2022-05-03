@@ -1,25 +1,25 @@
-# aaltoverb-issues
+# plugin-issues
 
-*Issues for the Aaltoverb VST/AU plugin.*
+*Issues for Madrona Labs VST/AU plugins.*
 
 *No code here, just issues! To see the current list, click "Issues" above.*
 
 ```
-revision history:
+recent releases of plugins fixing one or more issues:
 
-version 2.0.0b5(rc1):
+Aaltoverb 2.0.0b5(rc1):
 
 Prevented blowups when using square wave size modulation.
 Removed "ghost" Popup drawing.
 Fixed double-click on main dials with Popups.
 
-version 2.0.0b4:
+Aaltoverb 2.0.0b4:
 
 Fixed drawing issue when repeatedly launching Popups.
 Fixed crash on delete in VCVRack Host.
 Optimized for CPU use.
 
-version 2.0.0b3:
+Aaltoverb 2.0.0b3:
 
 Added square wave to LFOs.
 Removed 2/3 swing ratio to work around swing issue for now.
@@ -32,7 +32,7 @@ Fixed scroll direction with "natural scrolling" off on Mac OS
 Fixed MIDI learn for Audio Units version.
 Reduced demo wave noise volume.
 
-version 2.0:
+Aaltoverb 2.0.0:
 
 Added Apple Silicon compatibility.
 Added MIDI learn for all dials.

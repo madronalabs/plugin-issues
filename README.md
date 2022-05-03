@@ -9,17 +9,20 @@ An issue is something about the software that needs to be fixed. Often this mean
 ```
 Recent releases of plugins:
 
-Aaltoverb 2.0.0b5(rc1) / April 28, 2002
+// Aaltoverb 2.0.0b5(rc1)
+// April 28, 2002
 Prevented blowups when using square wave size modulation.
 Removed "ghost" Popup drawing.
 Fixed double-click on main dials with Popups.
 
-Aaltoverb 2.0.0b4 / April 23, 2002
+// Aaltoverb 2.0.0b4 
+// April 23, 2002
 Fixed drawing issue when repeatedly launching Popups.
 Fixed crash on delete in VCVRack Host.
 Optimized for CPU use.
 
-Aaltoverb 2.0.0b3 / April 12, 2002
+// Aaltoverb 2.0.0b3 
+// April 12, 2002
 Added square wave to LFOs.
 Removed 2/3 swing ratio to work around swing issue for now.
 Fixed parameter names.
@@ -31,7 +34,8 @@ Fixed scroll direction with "natural scrolling" off on Mac OS
 Fixed MIDI learn for Audio Units version.
 Reduced demo wave noise volume.
 
-Aaltoverb 2.0.0b1 / Feb 24, 2002
+// Aaltoverb 2.0.0b1 
+// Feb 24, 2002
 Added Apple Silicon compatibility.
 Added MIDI learn for all dials.
 Added LFOs for four main dials.

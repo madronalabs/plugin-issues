@@ -9,6 +9,10 @@ An issue is something about the software that needs to be fixed. Often this mean
 ```
 Recent releases of plugins:
 
+// Aaltoverb 2.0.1
+// May 6, 2022
+Fixed issue creating license file.
+
 // Aaltoverb 2.0.0b5(rc1)
 // April 28, 2002
 Prevented blowups when using square wave size modulation.

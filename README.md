@@ -9,7 +9,7 @@ An issue is something about the software that needs to be fixed. Often this mean
 ```
 Recent releases of plugins:
 
-// Altoverb 2.0.2
+// Aaltoverb 2.0.2
 June 2, 2022
 Switched to packaging as a separate "Aaltoverb 2".
 Fixed a rare crash loading vector image assets.

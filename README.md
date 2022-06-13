@@ -9,6 +9,10 @@ An issue is something about the software that needs to be fixed. Often this mean
 ```
 Recent releases of plugins:
 
+// Aaltoverb 2.0.3
+June 13, 2022
+Fixed license key paste issue with accents and non-Roman characters.
+
 // Aaltoverb 2.0.2
 June 2, 2022
 Switched to packaging as a separate "Aaltoverb 2".
